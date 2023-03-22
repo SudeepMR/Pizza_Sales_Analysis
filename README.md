@@ -24,8 +24,12 @@ A year's worth of sales from a fictitious pizza place, including the date and ti
 
 # Dashboard
 
-<img width="569" alt="pizza_dashboard" src="https://user-images.githubusercontent.com/117252390/226844184-251fe8de-f32d-41c9-a065-11567ba5f6ff.PNG">
+<img width="573" alt="pizza_dashboard" src="https://user-images.githubusercontent.com/117252390/226850579-c89ee164-d5c9-485d-8136-746c67990e0a.PNG">
 
 
 # Some Important insights from the Dashboard
 
++ The average number of customers per day is 60, and 12 p.m. to 1 p.m. is the peak hour of sale.
++ There is an average of 2 pizzas in an order, and the best-selling pizza is the Thai Chicken Pizza.
++ The total profit made this year is $817.86K, and people are more interested in Thai chicken and spicy Italian pizzas.
++ We should remove Brie Carre Pizza and Green Garden Pizza from the menu since they are the least popular pizzas.
