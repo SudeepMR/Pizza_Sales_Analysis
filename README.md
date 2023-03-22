@@ -25,3 +25,7 @@ A year's worth of sales from a fictitious pizza place, including the date and ti
 # Dashboard
 
 <img width="569" alt="pizza_dashboard" src="https://user-images.githubusercontent.com/117252390/226844184-251fe8de-f32d-41c9-a065-11567ba5f6ff.PNG">
+
+
+# Some Important insights from the Dashboard
+
