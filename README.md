@@ -1,6 +1,6 @@
 # Pizza_Sales_Analysis
 
-#3 Pizza Sales Dashboard using Power BI
+Pizza Sales Dashboard using Power BI
 
 
 As part of the maven analytics challenge, I have performed data analysis and designed a dashboard in Power BI
@@ -8,6 +8,7 @@ As part of the maven analytics challenge, I have performed data analysis and des
 Challenge [Link](https://mavenanalytics.io/data-playground)
 
 Live Dashboard [Link](https://www.novypro.com/project/a-years-worth-of-sales-from-a-fictitious-pizza-place)
+
 
 # Pizza Place Sales
 
