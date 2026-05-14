@@ -21,7 +21,7 @@ The project demonstrates:
 
 Below is the Power BI dashboard developed for pizza sales performance analysis and KPI monitoring.
 
-![Pizza Sales Dashboard](Dashboard_Screenshots/pizza_sales_dashboard.png)
+![Pizza Sales Dashboard](https://github.com/SudeepMR/Pizza-Sales-Analysis-Power-BI-Business-Intelligence-Project/blob/9b2822d398a7a2f190bbd07e77d0ed141a88abf7/Presentation/ppt_cover.PNG)
 
 ### Dashboard Includes
 - Revenue analysis
